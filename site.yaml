@@ -8,9 +8,11 @@ site:
   email: "info@infomalvinas.com.ar"
   language: "es"
   country: "AR"
-  # Boton flotante de WhatsApp: el bot (Mostrador) atiende ese numero; el texto
-  # precargado le dice de que sitio viene la persona. No cambiarlo sin avisar.
+  # Boton flotante de WhatsApp: activo: false lo apaga sin borrar el numero.
+  # El bot (Mostrador) atiende ese numero; el texto precargado le dice de que
+  # sitio viene la persona. No cambiarlo sin avisar.
   whatsapp:
+    activo: true
     numero: "5493543609121"
     texto: "Hola! Vengo de infomalvinas.com.ar"
   template: "neon"
