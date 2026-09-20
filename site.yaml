@@ -5,7 +5,9 @@ site:
   # Provisorio hasta que el dueño apunte el DNS a GitHub Pages; despues volver a
   # "https://infomalvinas.com.ar" (el engine deriva base_path y CNAME de aca).
   url: "https://parripollo.github.io/infomalvinas.com.ar"
-  email: "info@infomalvinas.com.ar"
+  # Sin email por ahora: la casilla no existe. Al tener una, descomentar y
+  # el engine vuelve a mostrar el link de contacto en cabecera y pie.
+  # email: "info@infomalvinas.com.ar"
   language: "es"
   country: "AR"
   # Boton flotante de WhatsApp: activo: false lo apaga sin borrar el numero.
