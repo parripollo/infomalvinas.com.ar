@@ -1,0 +1,201 @@
+site:
+  title: "Info Malvinas"
+  subtitle: "Noticias y novedades de Malvinas Argentinas, Córdoba"
+  description: "Portal de noticias de Malvinas Argentinas, Departamento Colón, Córdoba, Argentina"
+  url: "https://infomalvinas.com.ar"
+  email: "info@infomalvinas.com.ar"
+  language: "es"
+  country: "AR"
+  # Boton flotante de WhatsApp: el bot (Mostrador) atiende ese numero; el texto
+  # precargado le dice de que sitio viene la persona. No cambiarlo sin avisar.
+  whatsapp:
+    numero: "5493543609121"
+    texto: "Hola! Vengo de infomalvinas.com.ar"
+  template: "neon"
+  map:
+    latitude: -31.3736
+    longitude: -64.0483
+    title: "¿Dónde queda Malvinas Argentinas?"
+    zoom: 13
+
+content:
+  articles_on_homepage: 20
+  max_description_length: 250
+  max_article_age_days: 30
+
+ads:
+  # Publicidad para las paginas internas de cada noticia: usar el "name"
+  # de un item de la lista de abajo. Comentado = sin publicidad interna.
+  # article_ad: "La nueva app"
+  items:
+    - name: "Clases de Ajedrez - Raiz de Tres"
+      horizontal: "/pub/AJ26-900x90.mp4"
+      vertical: "/pub/AJ26-400x680.mp4"
+      url: "https://raizdetres.com.ar/cursos/l/AJ26/"
+    - name: "La nueva app"
+      horizontal: "/pub/la-nueva-app-horiz.mp4"
+      vertical: "/pub/la-nueva-app-400x680.mp4"
+      url: "https://loteriadecordoba.com.ar/"
+    - name: "Loteria de Cordoba"
+      horizontal: "/pub/LOGO-900x90.mp4"
+      vertical: "/pub/LOGO-400x680.mp4"
+      url: "https://loteriadecordoba.com.ar/"
+
+# Malvinas Argentinas (Cordoba) es un municipio chico del Departamento Colon,
+# sobre la Ruta 19, pegado a Cordoba capital. No hay un diario local con RSS
+# (Ahora Malvinas cerro; la web municipal ciudadmalvinas.gov.ar no publica
+# noticias, solo redes sociales). Por eso la estrategia es:
+#   1. Medios regionales del este cordobes con feed RSS (filtrados por keyword).
+#   2. El canal de YouTube del municipio y los canales de TV de Cordoba.
+#   3. Google News: una consulta general y una por cada medio grande que
+#      etiqueta a la localidad (El Doce, Cba24n, La Voz, Cadena 3, Canal C...).
+# Ojo con el nombre: "Malvinas Argentinas" tambien es un partido de Buenos
+# Aires y las Islas Malvinas. Por eso se busca siempre junto con "Cordoba" y
+# se filtra por titulo en los medios nacionales.
+
+sources:
+  # --- Canal oficial del municipio ---
+  - type: youtube
+    name: "Municipio de Malvinas Argentinas"
+    channel: "@municipiodemalvinasargentinas"
+    keywords: []
+    limit: 10
+
+  # --- Medios regionales chicos (zona este de Cordoba / Departamento Colon) ---
+  - type: rss
+    name: "Córdoba Interior Informa"
+    url: "https://cordobainteriorinforma.com/seccion/colon/malvinas-argentinas/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "Reporte Regional"
+    url: "https://reporteregional.com/feed/"
+    keywords: ["malvinas"]
+    limit: 10
+
+  - type: rss
+    name: "Política Córdoba Verdad"
+    url: "https://politicacordobaverdad.com.ar/feed/"
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  - type: rss
+    name: "Hoy Día Córdoba"
+    url: "https://hoydia.com.ar/feed/"
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  - type: rss
+    name: "Gobierno de Córdoba"
+    url: "https://prensa.cba.gov.ar/feed/"
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  - type: rss
+    name: "Cba24n"
+    url: "https://www.cba24n.com.ar/rss"
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  # --- Google News: consulta general ---
+  - type: google_news
+    name: "Noticias de Malvinas Argentinas"
+    query: '"Malvinas Argentinas" Córdoba -"Islas Malvinas" -"Buenos Aires" -"Los Polvorines" -"Grand Bourg" -bonaerense when:30d'
+    limit: 20
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  # --- Google News: medios grandes que etiquetan a la localidad ---
+  # keywords obliga a que el titulo nombre a la localidad. Sin ese filtro
+  # Google trae notas que solo la mencionan al pasar o en el menu del sitio
+  # (cortes de luz, Los Pumas, inflacion, Islas Malvinas, partido bonaerense).
+  - type: google_news
+    name: "El Doce"
+    query: '"Malvinas Argentinas" site:eldoce.tv when:60d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  - type: google_news
+    name: "Cba24n"
+    query: '"Malvinas Argentinas" site:cba24n.com.ar when:60d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  - type: google_news
+    name: "La Voz"
+    query: '"Malvinas Argentinas" Córdoba -"Buenos Aires" -"Los Polvorines" -"Grand Bourg" -bonaerense site:lavoz.com.ar when:60d'
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  - type: google_news
+    name: "Cadena 3"
+    query: '"Malvinas Argentinas" Córdoba -"Buenos Aires" -"Los Polvorines" -"Grand Bourg" -bonaerense site:cadena3.com when:60d'
+    keywords: ["malvinas argentinas"]
+    limit: 10
+
+  - type: google_news
+    name: "Canal C"
+    query: '"Malvinas Argentinas" site:canalc.com.ar when:60d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  - type: google_news
+    name: "Mirá El Norte"
+    query: '"Malvinas Argentinas" site:miraelnorte.com.ar when:60d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  - type: google_news
+    name: "Gobierno de Córdoba"
+    query: '"Malvinas Argentinas" site:prensa.cba.gov.ar when:90d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  - type: google_news
+    name: "Reporte Regional"
+    query: '"Malvinas Argentinas" site:reporteregional.com when:60d'
+    limit: 10
+    keywords: ["malvinas argentinas", "altonivel malvinas", "alto nivel malvinas"]
+
+  # --- Canales de TV y medios de Cordoba en YouTube ---
+  - type: youtube
+    name: "Canal C"
+    channel: "@CanalCCordobaTV"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "Cba24n"
+    channel: "@cba24n"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "Telefe Córdoba"
+    channel: "@telefecordoba"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "Canal 10"
+    channel: "@canal10cordoba"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "La Voz"
+    channel: "@lavozcomar"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "El Doce"
+    channel: "@eldoce"
+    keywords: ["malvinas argentinas"]
+    limit: 5
+
+  - type: youtube
+    name: "lagarto Show"
+    channel: "@LagartoShowOk"
+    keywords: ["malvinas argentinas"]
+    limit: 5
