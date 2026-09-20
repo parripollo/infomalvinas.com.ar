@@ -2,7 +2,9 @@ site:
   title: "Info Malvinas"
   subtitle: "Noticias y novedades de Malvinas Argentinas, Córdoba"
   description: "Portal de noticias de Malvinas Argentinas, Departamento Colón, Córdoba, Argentina"
-  url: "https://infomalvinas.com.ar"
+  # Provisorio hasta que el dueño apunte el DNS a GitHub Pages; despues volver a
+  # "https://infomalvinas.com.ar" (el engine deriva base_path y CNAME de aca).
+  url: "https://parripollo.github.io/infomalvinas.com.ar"
   email: "info@infomalvinas.com.ar"
   language: "es"
   country: "AR"

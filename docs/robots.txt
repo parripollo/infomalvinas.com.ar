@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://infomalvinas.com.ar/sitemap.xml
+Sitemap: https://parripollo.github.io/infomalvinas.com.ar/sitemap.xml
