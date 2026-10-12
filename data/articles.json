@@ -934,5 +934,31 @@
     "video_id": null,
     "slug": "malvinas-argentinas-realizo-una-expo-carreras-con-propuestas-educativas-reporte-regional",
     "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/6974.jpg"
+  },
+  "accidente-entre-dos-autos-en-malvinas-argentinas-uno-volco-y-no-hubo-heridos": {
+    "title": "Accidente entre dos autos en Malvinas Argentinas: uno volcó y no hubo heridos",
+    "link": "https://reporteregional.com/policiales/accidente-dos-autos-malvinas-argentinas-uno-volco-sin-heridos/",
+    "description": "El choque ocurrió este lunes alrededor de las 00:30, en la esquina de avenida San Martín y calle Corrientes. Según informó Zona News, solo se registraron daños materiales y uno de los conductores fue asistido en el lugar, sin necesidad de traslado. Un Volkswagen Gol y un Fiat Palio chocaron este lunes alrededor de las […]",
+    "pub_date": "12/10/2026",
+    "pub_date_raw": "2026-10-12T15:00:55",
+    "image": "/img/5d8c27354fc9439c.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "accidente-entre-dos-autos-en-malvinas-argentinas-uno-volco-y-no-hubo-heridos",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7073.jpg"
+  },
+  "accidente-entre-dos-autos-en-malvinas-argentinas-uno-volco-y-no-hubo-heridos-reporte-regional": {
+    "title": "Accidente entre dos autos en Malvinas Argentinas: uno volcó y no hubo heridos - Reporte Regional",
+    "link": "https://reporteregional.com/policiales/accidente-dos-autos-malvinas-argentinas-uno-volco-sin-heridos/",
+    "description": "Accidente entre dos autos en Malvinas Argentinas: uno volcó y no hubo heridos Reporte Regional",
+    "pub_date": "12/10/2026",
+    "pub_date_raw": "2026-10-12T15:00:55",
+    "image": "/img/5d8c27354fc9439c.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "accidente-entre-dos-autos-en-malvinas-argentinas-uno-volco-y-no-hubo-heridos-reporte-regional",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7073.jpg"
   }
 }
