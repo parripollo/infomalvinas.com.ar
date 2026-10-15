@@ -795,10 +795,10 @@
   },
   "malvinas-argentinas-reporte-regional": {
     "title": "Malvinas Argentinas - Reporte Regional",
-    "link": "https://reporteregional.com/secciones/malvinas/page/55/",
+    "link": "https://reporteregional.com/secciones/malvinas/page/56/",
     "description": "Malvinas Argentinas Reporte Regional",
-    "pub_date": "05/10/2026",
-    "pub_date_raw": "2026-10-05T16:10:01",
+    "pub_date": "15/10/2026",
+    "pub_date_raw": "2026-10-15T00:01:06",
     "image": null,
     "source_name": "Reporte Regional",
     "source_type": "google_news",
@@ -1037,5 +1037,30 @@
     "video_id": null,
     "slug": "preven-lluvias-y-posibles-tormentas-fuertes-este-miercoles-en-monte-cristo-malvinas-argentinas-y-cor",
     "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7186.jpg"
+  },
+  "cada-vez-falta-menos-para-vivir-jaur-en-malvinas-argentinas": {
+    "title": "¡Cada vez falta menos para vivir JAUR en Malvinas Argentinas! 🏀🏆",
+    "link": "https://www.youtube.com/watch?v=OKH8yMHcGJ4",
+    "description": "Más de 700 deportistas urbanos de todo el país se reunirán para vivir cuatro días de competencia, talento y pasión por el deporte. Del 28 al 31 de octubre en el Predio Municipal. Conocé más en: www.malvinasargentinas.gob.ar",
+    "pub_date": "14/10/2026",
+    "pub_date_raw": "2026-10-14T21:32:46",
+    "image": "https://i4.ytimg.com/vi/OKH8yMHcGJ4/hqdefault.jpg",
+    "source_name": "Municipio de Malvinas Argentinas",
+    "source_type": "youtube",
+    "video_id": "OKH8yMHcGJ4",
+    "slug": "cada-vez-falta-menos-para-vivir-jaur-en-malvinas-argentinas"
+  },
+  "malvinas-argentinas-realizo-la-expo-carreras-2026-con-instituciones-educativas-de-cordoba-reporte-re": {
+    "title": "Malvinas Argentinas realizó la Expo Carreras 2026 con instituciones educativas de Córdoba - Reporte Regional",
+    "link": "https://reporteregional.com/locales/malvinas-argentinas-realizo-expo-carreras-2026-instituciones-educativas-cordoba/",
+    "description": "Malvinas Argentinas realizó la Expo Carreras 2026 con instituciones educativas de Córdoba Reporte Regional",
+    "pub_date": "10/10/2026",
+    "pub_date_raw": "2026-10-10T20:45:40",
+    "image": "/img/688270f986ec3a81.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "malvinas-argentinas-realizo-la-expo-carreras-2026-con-instituciones-educativas-de-cordoba-reporte-re",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7206.jpg"
   }
 }
