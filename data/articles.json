@@ -1229,5 +1229,43 @@
     "video_id": null,
     "slug": "clima-en-malvinas-argentinas-cordoba-por-horas-spaceref",
     "image_original": "https://www.spaceref.com/images/meteo-tiempo-argentina-malvinas-argentinas.jpg"
+  },
+  "jaur-primer-dia": {
+    "title": "JAUR - Primer Dia",
+    "link": "https://www.youtube.com/watch?v=4w0z8aArEMc",
+    "description": "Juegos Argentinos Urbanos",
+    "pub_date": "28/10/2026",
+    "pub_date_raw": "2026-10-28T13:29:35",
+    "image": "https://i1.ytimg.com/vi/4w0z8aArEMc/hqdefault.jpg",
+    "source_name": "Municipio de Malvinas Argentinas",
+    "source_type": "youtube",
+    "video_id": "4w0z8aArEMc",
+    "slug": "jaur-primer-dia"
+  },
+  "choque-entre-un-auto-y-una-moto-en-malvinas-argentinas-secuestraron-ambos-vehiculos": {
+    "title": "Choque entre un auto y una moto en Malvinas Argentinas: secuestraron ambos vehículos",
+    "link": "https://reporteregional.com/policiales/choque-auto-moto-malvinas-argentinas-secuestraron-vehiculos/",
+    "description": "El impacto ocurrió en la intersección de las avenidas San Martín y Belgrano durante la madrugada del domingo 25 de octubre. Los ocupantes de la motocicleta se retiraron antes de la llegada policial y dejaron el rodado en el lugar. La Policía secuestró un automóvil Fiat Cronos y una motocicleta Mondial de 110 cc luego […]",
+    "pub_date": "28/10/2026",
+    "pub_date_raw": "2026-10-28T13:11:03",
+    "image": "/img/d810413907cad8fb.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "choque-entre-un-auto-y-una-moto-en-malvinas-argentinas-secuestraron-ambos-vehiculos",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7844-df8b32c4f0e46334d72afb6d.jpg"
+  },
+  "choque-entre-un-auto-y-una-moto-en-malvinas-argentinas-secuestraron-ambos-vehiculos-reporte-regional": {
+    "title": "Choque entre un auto y una moto en Malvinas Argentinas: secuestraron ambos vehículos - Reporte Regional",
+    "link": "https://reporteregional.com/policiales/choque-auto-moto-malvinas-argentinas-secuestraron-vehiculos/",
+    "description": "Choque entre un auto y una moto en Malvinas Argentinas: secuestraron ambos vehículos Reporte Regional",
+    "pub_date": "28/10/2026",
+    "pub_date_raw": "2026-10-28T13:11:03",
+    "image": "/img/832b54aa2cb0bdf9.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "choque-entre-un-auto-y-una-moto-en-malvinas-argentinas-secuestraron-ambos-vehiculos-reporte-regional",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7843-3c16ceb85e85fbf070c3551b.jpg"
   }
 }
