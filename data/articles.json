@@ -1234,8 +1234,8 @@
     "title": "JAUR - Primer Dia",
     "link": "https://www.youtube.com/watch?v=4w0z8aArEMc",
     "description": "Juegos Argentinos Urbanos",
-    "pub_date": "28/10/2026",
-    "pub_date_raw": "2026-10-28T13:29:35",
+    "pub_date": "29/10/2026",
+    "pub_date_raw": "2026-10-29T06:28:10",
     "image": "https://i1.ytimg.com/vi/4w0z8aArEMc/hqdefault.jpg",
     "source_name": "Municipio de Malvinas Argentinas",
     "source_type": "youtube",
@@ -1267,5 +1267,43 @@
     "video_id": null,
     "slug": "choque-entre-un-auto-y-una-moto-en-malvinas-argentinas-secuestraron-ambos-vehiculos-reporte-regional",
     "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/7843-3c16ceb85e85fbf070c3551b.jpg"
+  },
+  "jaur-dia-2": {
+    "title": "JAUR - Dia 2",
+    "link": "https://www.youtube.com/watch?v=TWABHRFerP8",
+    "description": "Juegos Argentinos Urbanos",
+    "pub_date": "29/10/2026",
+    "pub_date_raw": "2026-10-29T10:14:08",
+    "image": "https://i1.ytimg.com/vi/TWABHRFerP8/hqdefault.jpg",
+    "source_name": "Municipio de Malvinas Argentinas",
+    "source_type": "youtube",
+    "video_id": "TWABHRFerP8",
+    "slug": "jaur-dia-2"
+  },
+  "un-motociclista-fue-diagnosticado-con-politraumatismos-tras-un-choque-en-malvinas-argentinas": {
+    "title": "Un motociclista fue diagnosticado con politraumatismos tras un choque en Malvinas Argentinas",
+    "link": "https://reporteregional.com/policiales/motociclista-diagnosticado-politraumatismos-choque-malvinas-argentinas/",
+    "description": "El siniestro ocurrió el 28 de octubre por la noche en la intersección de la ruta A-88 y calle Gaucho Rivero. Colisionaron un Peugeot 308 y una motocicleta Yamaha XTZ de 250 cc. El choque ocurrió a las 19:50, cuando un automóvil y una motocicleta colisionaron en la intersección de la ruta A-88 y calle […]",
+    "pub_date": "29/10/2026",
+    "pub_date_raw": "2026-10-29T13:45:52",
+    "image": "/img/25d884d922b770cf.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "un-motociclista-fue-diagnosticado-con-politraumatismos-tras-un-choque-en-malvinas-argentinas",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8050-065ec827be0a3b51571c1f9e.jpg"
+  },
+  "gaston-mazzalay-intendente-de-malvinas-argentinas-en-pcv-youtube": {
+    "title": "Gaston Mazzalay, Intendente de Malvinas Argentinas en PCV - YouTube",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kYzF1eXpjblpDQ20zOHZMSmh4bjlfMEFYUDM5NjIxUDBiX0ZPX1MwVEpaTllXQXM4VmxoQW5xX0JyanNnNkZ2Q19VSWhxSXZ4STBnWXF5dk5XN0ZG?oc=5",
+    "description": "Gaston Mazzalay, Intendente de Malvinas Argentinas en PCV YouTube",
+    "pub_date": "06/10/2026",
+    "pub_date_raw": "2026-10-06T07:00:00",
+    "image": null,
+    "source_name": "YouTube",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "gaston-mazzalay-intendente-de-malvinas-argentinas-en-pcv-youtube",
+    "link_intentos": 1
   }
 }
