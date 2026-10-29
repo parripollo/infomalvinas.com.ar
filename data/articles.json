@@ -1304,6 +1304,31 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "gaston-mazzalay-intendente-de-malvinas-argentinas-en-pcv-youtube",
-    "link_intentos": 1
+    "link_intentos": 2
+  },
+  "el-tiempo-en-malvinas-argentinas-the-weather-channel": {
+    "title": "El tiempo en Malvinas Argentinas - The Weather Channel",
+    "link": "https://weather.com/es-AR/ar/cordoba/malvinas-argentinas/postcode/x5126/today",
+    "description": "El tiempo en Malvinas Argentinas The Weather Channel",
+    "pub_date": "19/10/2026",
+    "pub_date_raw": "2026-10-19T13:50:12",
+    "image": null,
+    "source_name": "The Weather Channel",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "el-tiempo-en-malvinas-argentinas-the-weather-channel"
+  },
+  "un-motociclista-fue-diagnosticado-con-politraumatismos-tras-un-choque-en-malvinas-argentinas-reporte": {
+    "title": "Un motociclista fue diagnosticado con politraumatismos tras un choque en Malvinas Argentinas - Reporte Regional",
+    "link": "https://reporteregional.com/policiales/motociclista-diagnosticado-politraumatismos-choque-malvinas-argentinas/",
+    "description": "Un motociclista fue diagnosticado con politraumatismos tras un choque en Malvinas Argentinas Reporte Regional",
+    "pub_date": "29/10/2026",
+    "pub_date_raw": "2026-10-29T13:45:52",
+    "image": "/img/25d884d922b770cf.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "un-motociclista-fue-diagnosticado-con-politraumatismos-tras-un-choque-en-malvinas-argentinas-reporte",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8050-065ec827be0a3b51571c1f9e.jpg"
   }
 }
