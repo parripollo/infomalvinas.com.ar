@@ -1273,7 +1273,7 @@
     "link": "https://www.youtube.com/watch?v=TWABHRFerP8",
     "description": "Juegos Argentinos Urbanos",
     "pub_date": "29/10/2026",
-    "pub_date_raw": "2026-10-29T10:14:08",
+    "pub_date_raw": "2026-10-29T23:27:50",
     "image": "https://i1.ytimg.com/vi/TWABHRFerP8/hqdefault.jpg",
     "source_name": "Municipio de Malvinas Argentinas",
     "source_type": "youtube",
@@ -1304,7 +1304,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "gaston-mazzalay-intendente-de-malvinas-argentinas-en-pcv-youtube",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "el-tiempo-en-malvinas-argentinas-the-weather-channel": {
     "title": "El tiempo en Malvinas Argentinas - The Weather Channel",
@@ -1330,5 +1330,42 @@
     "video_id": null,
     "slug": "un-motociclista-fue-diagnosticado-con-politraumatismos-tras-un-choque-en-malvinas-argentinas-reporte",
     "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8050-065ec827be0a3b51571c1f9e.jpg"
+  },
+  "jaur-dia-3": {
+    "title": "JAUR - Dia 3",
+    "link": "https://www.youtube.com/watch?v=Pj7nAtjNaUk",
+    "description": "Juegos Argentinos Urbanos",
+    "pub_date": "30/10/2026",
+    "pub_date_raw": "2026-10-30T11:39:18",
+    "image": "https://i1.ytimg.com/vi/Pj7nAtjNaUk/hqdefault.jpg",
+    "source_name": "Municipio de Malvinas Argentinas",
+    "source_type": "youtube",
+    "video_id": "Pj7nAtjNaUk",
+    "slug": "jaur-dia-3"
+  },
+  "operativos-en-malvinas-argentinas-y-monte-cristo-dejaron-dos-aprehendidos-y-ocho-motos-secuestradas": {
+    "title": "Operativos en Malvinas Argentinas y Monte Cristo dejaron dos aprehendidos y ocho motos secuestradas",
+    "link": "https://reporteregional.com/policiales/operativos-malvinas-argentinas-monte-cristo-dos-aprehendidos-ocho-motos-secuestradas/",
+    "description": "Los procedimientos se realizaron el 29 de octubre. En Malvinas Argentinas fueron aprehendidos dos hombres de 18 y 20 años, mientras que en el conjunto de los controles se secuestraron ocho motocicletas y se identificó a una persona con pedido de paradero vigente. Según el parte policial, los operativos preventivos realizados en Malvinas Argentinas y […]",
+    "pub_date": "30/10/2026",
+    "pub_date_raw": "2026-10-30T12:31:35",
+    "image": "/img/c5b53c0df3472ef9.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "operativos-en-malvinas-argentinas-y-monte-cristo-dejaron-dos-aprehendidos-y-ocho-motos-secuestradas",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8157-49076bc88156a7582c23b783-768x1024.jpg"
+  },
+  "gaston-mazzalay-intendente-de-malvinas-argentinas": {
+    "title": "Gastón Mazzalay, Intendente de Malvinas Argentinas",
+    "link": "https://www.youtube.com/watch?v=P6NnzxwTuj0",
+    "description": "👉Más información en: http://canalc.com.ar/ 📺Miranos por la señal 7 y 539 de Flow. 📱Nuestras Redes Sociales: •Twitter: https://twitter.com/canalccordoba •Facebook: https://facebook.com/CanalCCordoba •Instagram: https://instagram.com/canalccordoba/ Bienvenidos al canal oficial de YouTube de Canal C Córdoba.",
+    "pub_date": "30/10/2026",
+    "pub_date_raw": "2026-10-30T03:02:42",
+    "image": "https://i1.ytimg.com/vi/P6NnzxwTuj0/hqdefault.jpg",
+    "source_name": "Canal C Argentina",
+    "source_type": "youtube",
+    "video_id": "P6NnzxwTuj0",
+    "slug": "gaston-mazzalay-intendente-de-malvinas-argentinas"
   }
 }
