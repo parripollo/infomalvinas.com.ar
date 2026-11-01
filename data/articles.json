@@ -1373,11 +1373,49 @@
     "link": "https://www.youtube.com/watch?v=IBggEDZH6b4",
     "description": "Juegos Argentinos Urbanos",
     "pub_date": "31/10/2026",
-    "pub_date_raw": "2026-10-31T10:34:04",
+    "pub_date_raw": "2026-10-31T23:35:23",
     "image": "https://i2.ytimg.com/vi/IBggEDZH6b4/hqdefault.jpg",
     "source_name": "Municipio de Malvinas Argentinas",
     "source_type": "youtube",
     "video_id": "IBggEDZH6b4",
     "slug": "jaur-dia-4"
+  },
+  "un-motociclista-resulto-herido-tras-un-choque-en-la-ruta-19-en-malvinas-argentinas": {
+    "title": "Un motociclista resultó herido tras un choque en la Ruta 19, en Malvinas Argentinas",
+    "link": "https://reporteregional.com/policiales/motociclista-herido-choque-ruta-19-malvinas-argentinas/",
+    "description": "El siniestro ocurrió este viernes por la tarde, alrededor de las 19, a la altura del kilómetro 324. El conductor de la moto fue trasladado al Sanatorio El Salvador. Un Chevrolet Corsa y una motocicleta Kawasaki KLE 500 colisionaron en la Ruta Nacional 19, a la altura de Malvinas Argentinas. El conductor de la moto […]",
+    "pub_date": "31/10/2026",
+    "pub_date_raw": "2026-10-31T22:45:16",
+    "image": "/img/2058864a996f7e9e.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "un-motociclista-resulto-herido-tras-un-choque-en-la-ruta-19-en-malvinas-argentinas",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8234-817891ecdd14f7868a62e425.jpg"
+  },
+  "argentino-33-mendoza-y-febamba-fueron-campeones-en-malvinas-argentinas-marca-personal-web": {
+    "title": "Argentino 3×3: Mendoza y FeBAMBA fueron campeones en Malvinas Argentinas - Marca Personal Web",
+    "link": "https://marcapersonalweb.com.ar/2026/10/31/argentino-3x3-mendoza-y-febamba-fueron-campeones-en-malvinas-argentinas/",
+    "description": "Argentino 3×3: Mendoza y FeBAMBA fueron campeones en Malvinas Argentinas Marca Personal Web",
+    "pub_date": "31/10/2026",
+    "pub_date_raw": "2026-10-31T21:10:56",
+    "image": null,
+    "source_name": "Marca Personal Web",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "argentino-33-mendoza-y-febamba-fueron-campeones-en-malvinas-argentinas-marca-personal-web"
+  },
+  "un-motociclista-resulto-herido-tras-un-choque-en-la-ruta-19-en-malvinas-argentinas-reporte-regional": {
+    "title": "Un motociclista resultó herido tras un choque en la Ruta 19, en Malvinas Argentinas - Reporte Regional",
+    "link": "https://reporteregional.com/policiales/motociclista-herido-choque-ruta-19-malvinas-argentinas/",
+    "description": "Un motociclista resultó herido tras un choque en la Ruta 19, en Malvinas Argentinas Reporte Regional",
+    "pub_date": "31/10/2026",
+    "pub_date_raw": "2026-10-31T22:45:16",
+    "image": "/img/2058864a996f7e9e.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "un-motociclista-resulto-herido-tras-un-choque-en-la-ruta-19-en-malvinas-argentinas-reporte-regional",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/10/8234-817891ecdd14f7868a62e425.jpg"
   }
 }
