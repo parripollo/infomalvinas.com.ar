@@ -795,10 +795,10 @@
   },
   "malvinas-argentinas-reporte-regional": {
     "title": "Malvinas Argentinas - Reporte Regional",
-    "link": "https://reporteregional.com/secciones/malvinas/page/56/",
+    "link": "https://reporteregional.com/secciones/malvinas/page/57/",
     "description": "Malvinas Argentinas Reporte Regional",
-    "pub_date": "15/10/2026",
-    "pub_date_raw": "2026-10-15T00:01:06",
+    "pub_date": "06/11/2026",
+    "pub_date_raw": "2026-11-06T15:27:26",
     "image": null,
     "source_name": "Reporte Regional",
     "source_type": "google_news",
@@ -1559,5 +1559,31 @@
     "video_id": null,
     "slug": "malvinas-argentinas-aprehendieron-a-un-hombre-y-secuestraron-una-moto-reporte-regional",
     "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/8577-127f44017ae7f91a5270affd.jpg"
+  },
+  "padre-e-hijo-de-malvinas-argentinas-fueron-campeones-de-artes-marciales-en-china": {
+    "title": "Padre e hijo de Malvinas Argentinas fueron campeones de artes marciales en China",
+    "link": "https://reporteregional.com/deportes/padre-hijo-malvinas-argentinas-campeones-artes-marciales-china/",
+    "description": "Cristian y Santiago Campos representaron a la Argentina en una competencia internacional realizada en Hangzhou, provincia de Zhejiang. El torneo se disputó entre el 31 de octubre y el 1 de noviembre de 2026. Los representantes de Malvinas Argentinas obtuvieron el campeonato en un torneo internacional de artes marciales chinas. El resultado fue alcanzado por […]",
+    "pub_date": "06/11/2026",
+    "pub_date_raw": "2026-11-06T19:46:49",
+    "image": "/img/d85c568d7f18fa5d.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "padre-e-hijo-de-malvinas-argentinas-fueron-campeones-de-artes-marciales-en-china",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/8595-9b0863a142a7b36ede13839b-562x1024.jpg"
+  },
+  "padre-e-hijo-de-malvinas-argentinas-fueron-campeones-de-artes-marciales-en-china-reporte-regional": {
+    "title": "Padre e hijo de Malvinas Argentinas fueron campeones de artes marciales en China - Reporte Regional",
+    "link": "https://reporteregional.com/deportes/padre-hijo-malvinas-argentinas-campeones-artes-marciales-china/",
+    "description": "Padre e hijo de Malvinas Argentinas fueron campeones de artes marciales en China Reporte Regional",
+    "pub_date": "06/11/2026",
+    "pub_date_raw": "2026-11-06T19:46:49",
+    "image": "/img/f0aa1496cbee1c32.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "padre-e-hijo-de-malvinas-argentinas-fueron-campeones-de-artes-marciales-en-china-reporte-regional",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/8594-9acb96b5588892876db789f6.jpg"
   }
 }
