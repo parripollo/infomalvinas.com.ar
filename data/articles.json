@@ -1597,6 +1597,32 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "venta-de-locales-en-malvinas-argentinas-clasificados-la-voz",
-    "link_intentos": 2
+    "link_intentos": 3
+  },
+  "dos-jovenes-resultaron-heridos-tras-un-despiste-en-la-ruta-19-en-malvinas-argentinas": {
+    "title": "Dos jóvenes resultaron heridos tras un despiste en la Ruta 19, en Malvinas Argentinas",
+    "link": "https://reporteregional.com/policiales/dos-jovenes-heridos-despiste-ruta-19-malvinas-argentinas/",
+    "description": "El vehículo terminó en la banquina a la altura del kilómetro 326. Un joven de 24 años y una adolescente de 17 fueron asistidos en el lugar y no necesitaron ser trasladados a un centro de salud. El siniestro ocurrió este viernes 6 de noviembre, cuando un Renault Megane despistó mientras circulaba por la Ruta […]",
+    "pub_date": "07/11/2026",
+    "pub_date_raw": "2026-11-07T22:30:56",
+    "image": "/img/5dc2217df1f296ea.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "dos-jovenes-resultaron-heridos-tras-un-despiste-en-la-ruta-19-en-malvinas-argentinas",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/8611-0a414ef18ba08282c77a2ac5.jpg"
+  },
+  "dos-jovenes-resultaron-heridos-tras-un-despiste-en-la-ruta-19-en-malvinas-argentinas-reporte-regiona": {
+    "title": "Dos jóvenes resultaron heridos tras un despiste en la Ruta 19, en Malvinas Argentinas - Reporte Regional",
+    "link": "https://reporteregional.com/policiales/dos-jovenes-heridos-despiste-ruta-19-malvinas-argentinas/",
+    "description": "Dos jóvenes resultaron heridos tras un despiste en la Ruta 19, en Malvinas Argentinas Reporte Regional",
+    "pub_date": "07/11/2026",
+    "pub_date_raw": "2026-11-07T22:30:56",
+    "image": "/img/5dc2217df1f296ea.jpg",
+    "source_name": "Reporte Regional",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "dos-jovenes-resultaron-heridos-tras-un-despiste-en-la-ruta-19-en-malvinas-argentinas-reporte-regiona",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/8611-0a414ef18ba08282c77a2ac5.jpg"
   }
 }
