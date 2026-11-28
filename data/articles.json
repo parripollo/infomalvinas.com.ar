@@ -2095,11 +2095,12 @@
     "description": "Malvinas Argentinas abrió las inscripciones para la Escuela de Verano 2026/2027 Reporte Regional",
     "pub_date": "27/11/2026",
     "pub_date_raw": "2026-11-27T13:15:54",
-    "image": null,
+    "image": "/img/52b5514577a08a08.jpg",
     "source_name": "Reporte Regional",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "malvinas-argentinas-abrio-las-inscripciones-para-la-escuela-de-verano-20262027-reporte-regional"
+    "slug": "malvinas-argentinas-abrio-las-inscripciones-para-la-escuela-de-verano-20262027-reporte-regional",
+    "image_original": "https://reporteregional.com/wp-content/uploads/2026/11/10338-2f9f015cc8a8b38d04f97bd7-d.jpg"
   },
   "otro-accidente-en-la-ruta-19-dejo-a-un-motociclista-herido-en-malvinas-argentinas-reporte-regional": {
     "title": "Otro accidente en la Ruta 19 dejó a un motociclista herido en Malvinas Argentinas - Reporte Regional",
@@ -2151,5 +2152,44 @@
     "source_type": "youtube",
     "video_id": "qbKD2JtBwG4",
     "slug": "ruta-19-un-peaton-murio-tras-ser-embestido-por-un-auto"
+  },
+  "malvinas-argentinas-amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados": {
+    "title": "Malvinas Argentinas: amplio operativo de saturación dejó 29 vehículos secuestrados",
+    "link": "https://www.cba24n.com.ar/cordoba/malvinas-argentinas--amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados_a6b0ad8af811884993c34d43a",
+    "description": "Se concentró en inmediaciones de la plaza central y otros sectores estratégicos de la localidad de la provincia de Córdoba. Además, se labraron 25 actas de infracción.",
+    "pub_date": "28/11/2026",
+    "pub_date_raw": "2026-11-28T13:41:45",
+    "image": "/img/11802dcbf9f30e84.jpg",
+    "source_name": "Cba24n",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "malvinas-argentinas-amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados",
+    "image_original": "https://srt-assets.tadevel-cdn.com/6b0ad9fa811884993c34df79/720.jpeg"
+  },
+  "malvinas-argentinas-amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados-cba24n": {
+    "title": "Malvinas Argentinas: amplio operativo de saturación dejó 29 vehículos secuestrados - Cba24n",
+    "link": "https://www.cba24n.com.ar/cordoba/malvinas-argentinas--amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados_a6b0ad8af811884993c34d43a",
+    "description": "Malvinas Argentinas: amplio operativo de saturación dejó 29 vehículos secuestrados Cba24n",
+    "pub_date": "28/11/2026",
+    "pub_date_raw": "2026-11-28T13:41:45",
+    "image": "/img/aed6487a6b48c201.jpg",
+    "source_name": "Cba24n",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "malvinas-argentinas-amplio-operativo-de-saturacion-dejo-29-vehiculos-secuestrados-cba24n",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6b0ad8af811884993c34d43a/facebook?v=e17927ff3872c0823e287555a594db91&s=f52dfc5b534ea44dae544f789f7c522d"
+  },
+  "fuerte-despliegue-de-seguridad-en-malvinas-argentinas-retuvieron-29-vehiculos-telefe-cordoba": {
+    "title": "Fuerte despliegue de seguridad en Malvinas Argentinas: retuvieron 29 vehículos - Telefe Córdoba",
+    "link": "https://cordoba.mitelefe.com/cordoba/fuerte-despliegue-de-seguridad-en-malvinas-argentinas-retuvieron-29-vehiculos-pid2573329",
+    "description": "Fuerte despliegue de seguridad en Malvinas Argentinas: retuvieron 29 vehículos Telefe Córdoba",
+    "pub_date": "28/11/2026",
+    "pub_date_raw": "2026-11-28T14:55:35",
+    "image": "/img/9eeb4049786497a0.jpg",
+    "source_name": "Telefe Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "fuerte-despliegue-de-seguridad-en-malvinas-argentinas-retuvieron-29-vehiculos-telefe-cordoba",
+    "image_original": "https://cordoba.mitelefe.com/media/cache/post16x9/2026/11/Fuerte-despliegue-de-seguridad-en-Malvinas-Argentinas-6b0aeb6769157.jpg"
   }
 }
